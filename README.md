@@ -1,2 +1,1 @@
-# Book-by-neural-networks
-A children's book made using the ChatGPT and Midjourney neural networks.
+A book in the adventure genre with text from ChatGPT and pictures from Midjourney. The book has the appropriate parameters, so it is ready for sale on Amazon. The text is light and intended for children aged 6 - 9 years, there is also a short retelling and page-by-page content at the end. Conversion to pdf file was done using Canva (premium).
